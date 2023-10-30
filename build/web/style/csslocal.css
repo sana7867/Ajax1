@@ -1,0 +1,50 @@
+fieldset  {
+    width: 50%;
+    margin: auto;
+}
+.tab{
+    border-collapse: collapse;
+    margin: 0 auto; 
+      font-family: Arial;
+}
+
+.tab td, th{
+    border : 1px solid black;
+    padding: 10px 15px;
+    font-family: Arial;
+}
+
+.tab tr:nth-child(even) {
+    background-color: #f2f2f2; /* Couleur de fond pour les lignes paires */
+    font-family: Arial;
+}
+
+.tab tr:nth-child(odd) {
+    background-color: #ffffff; /* Couleur de fond pour les lignes impaires */
+    font-family: Arial;
+}
+.bnupdate {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-family: Arial;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.bndelete {
+    background-color: coral; /* Green */
+    border: none;
+    color: white;
+    font-family: Arial;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+

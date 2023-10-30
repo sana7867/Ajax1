@@ -1,0 +1,31 @@
+SMAP
+machineForm_jsp.java
+JSP
+*S JSP
+*F
++ 0 machineForm.jsp
+machineForm.jsp
++ 1 header.jsp
+template/header.jsp
++ 2 menu.jsp
+template/menu.jsp
+*L
+1,19:57
+1#1,8:76
+19#0,2:83
+5#2,11:85
+20#0,19:96
+39,3:116
+41:119
+42:120,6
+43:126,3
+44,18:129
+62,2:148
+63,20:150
+83,2:171
+84,2:173
+86,6:175,3
+92,2:193
+94:195,3
+95,8:198
+*E

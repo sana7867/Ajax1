@@ -1,0 +1,25 @@
+SMAP
+machineByReferenceForm_jsp.java
+JSP
+*S JSP
+*F
++ 0 machineByReferenceForm.jsp
+machineByReferenceForm.jsp
++ 1 header.jsp
+template/header.jsp
++ 2 menu.jsp
+template/menu.jsp
+*L
+1,22:57
+1#1,8:79
+22#0,2:86
+5#2,12:88
+23#0,13:100
+36,3:114
+38:117
+39:118,6
+40:124,3
+41,43:127
+84,2:171
+85,23:173
+*E

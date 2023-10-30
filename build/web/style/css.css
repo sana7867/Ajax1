@@ -1,0 +1,124 @@
+/* Tableau */
+#customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    width: 100%;
+}
+
+#customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: center;
+}
+
+#customers tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+#customers tr:hover {
+    background-color: #ddd;
+}
+
+#customers th {
+    padding: 12px;
+    text-align: left;
+    background-color: #3498db; /* Bleu */
+    color: white;
+}
+
+/* Formulaires */
+input[type="text"],
+input[type="date"],
+input[type="number"],
+select {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type="submit"],
+button {
+    width: 100%;
+    background-color: #3498db; /* Bleu */
+    color: white;
+    padding: 12px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+/* Conteneurs */
+div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+fieldset {
+    border: 2px solid #27ae60; /* Vert */
+    border-radius: 8px;
+}
+
+/* En-têtes et liens */
+h1, legend {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: #3498db; /* Bleu */
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 20%;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 12px 16px;
+    text-decoration: none;
+}
+
+li a.active {
+    background-color: #3498db; /* Bleu */
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+
+/* En-tête */
+.header {
+    background-color: #3498db; /* Bleu */
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+#horloge {
+    float: right;
+    margin-right: 20px;
+}
+
+#logo {
+    float: left;
+    background-image: url("C:\Users\Tecra\Downloads\ajax2\ajax2\web\images\Logo_Ensaj.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    display: inline;
+}
