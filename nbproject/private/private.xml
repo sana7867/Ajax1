@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/src/java/ma/school/service/MarqueService.java</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/src/java/ma/school/dao/IDao.java</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/web/script/machineByReference.js</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/web/script/test.json</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/web/template/header.jsp</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/src/java/ma/school/controller/MachineByMarqueController.java</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/src/java/ma/school/controller/MachineController.java</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/src/java/ma/school/controller/MarqueController.java</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/web/images/Logo_Ensaj.png</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/web/script/jquery-3.3.1.min.js</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/src/java/ma/school/controller/MachineByReferenceController.java</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/src/java/ma/school/config/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/src/java/ma/school/beans/Machine.java</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/web/style/csslocal.css</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/web/template/menu.jsp</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/web/template/footer.jsp</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/web/machineForm.jsp</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/web/machineByMarqueForm.jsp</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/src/java/ma/school/service/MachineService.java</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/web/etudiantForm.jsp</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/web/script/jsonExemple.js</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/src/java/ma/school/controller/EtudiantController.java</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/src/java/ma/school/util/HibernateUtil.java</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/src/java/ma/school/service/EtudiantService.java</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/src/java/Test.java</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/web/script/machineByMarque.js</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/web/machineByReferenceForm.jsp</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/web/marqueForm.jsp</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/web/style/css.css</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/web/script/horloge.js</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/src/java/ma/school/beans/Marque.java</file>
+            <file>file:/C:/Users/Tecra/Downloads/ajax2/ajax2/src/java/ma/school/beans/Etudiant.java</file>
+        </group>
+    </open-files>
+</project-private>
